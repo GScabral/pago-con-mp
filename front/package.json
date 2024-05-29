@@ -1,0 +1,13 @@
+{
+  "name": "mi_proyecto",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}

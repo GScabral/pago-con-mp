@@ -1,0 +1,17 @@
+[{
+	"name":"avion",
+	"cantidad":"2",
+	"precio":"45000"
+},{
+	"name":"casa",
+	"cantidad":"2",
+	"precio":"400"
+},{
+	"name":"perro",
+	"cantidad":"2",
+	"precio":"1000"
+},{
+	"name":"arbol",
+	"cantidad":"2",
+	"precio":"4000"
+}]
