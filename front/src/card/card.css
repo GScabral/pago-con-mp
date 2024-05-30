@@ -1,0 +1,17 @@
+.card{
+    margin-right: 20px; 
+    margin-bottom: 20px; 
+    border: 1px solid #d4773a;
+    padding: 5px;
+    text-decoration: none;
+    position: relative;
+    -webkit-transition: 1s linear;
+    transition: 1s linear;
+    box-shadow: #f1c40f;
+}
+
+.card-imagen {
+    height: 200px; /* Define la altura deseada */
+    border-radius: 5px; /* Ajusta el radio para que coincida con el contenedor */
+  }
+  

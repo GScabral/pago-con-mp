@@ -1,0 +1,25 @@
+[{
+	"id":"485423",
+	"imagen":"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ6MDI1a213aTUzMGloZDI1MDhscmU0NmhxcjhxcnVjbWJweGx3dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J4yNRingyayMMIapTH/200.webp",
+	"name":"avion",
+	"cantidad":"2",
+	"precio":"45000"
+},{
+	"id":"48543",
+	"imagen":"https://media1.giphy.com/media/WvukhnSrppbJIOA4CQ/200.webp?cid=790b7611mj398q2gmwtb5iocmowlvgsus13duutan85trbbs&ep=v1_gifs_search&rid=200.webp&ct=g",
+	"name":"casa",
+	"cantidad":"2",
+	"precio":"400"
+},{
+	"id":"485436",
+	"imagen":"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZ0ZW5nd2IzenB2bTIyem5idHZncW9qYWc3eHhwYXRlbHZmcjY1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DirPxXrUHKaCA/200.webp",
+	"name":"perro",
+	"cantidad":"2",
+	"precio":"1000"
+},{
+	"id":"4854243",
+	"imagen":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpicjEzbGEwdzRkZ3Azcmd1cWJ5ZDJyOXh6ZTczbTRqYjJ1a2dsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HwXj1VRf9BJ04/giphy.webp",
+	"name":"arbol",
+	"cantidad":"2",
+	"precio":"4000"
+}]
